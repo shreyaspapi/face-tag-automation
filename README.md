@@ -51,4 +51,4 @@ Feature: Facial Recognition
     Then An api is called for the deduction of fare from the wallet
 ```
 
-######  `Automation Anywhere Hackathon`
+######  `Automation Anywhere Hackathon Online`
