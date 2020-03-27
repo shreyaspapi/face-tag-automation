@@ -51,4 +51,15 @@ Feature: Facial Recognition
     Then An api is called for the deduction of fare from the wallet
 ```
 
+Future Additions
+---
+```gherkin=
+Density check in a station
+
+  # Future addition would be to add density check of people using azure object detection
+    in all metro stations to help with the wait time of the metro in a perticular station 
+    at a perticular time based on the density and azure analitics
+
+```
+
 ######  `Automation Anywhere Hackathon Online`
